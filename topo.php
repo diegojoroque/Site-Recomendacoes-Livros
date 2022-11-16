@@ -1,7 +1,7 @@
 <header>
     <img src="library.png"> 
     <h1>Recomendações de livros</h1>
-    <h4>por Diego José de Oliveira Roque</h4>
+    <h4>por Diego</h4>
         
     <nav>
         <ul>

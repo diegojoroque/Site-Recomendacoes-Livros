@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
     <!--
-		Instituição: Instituto Federal do Sul de Minas Gerais
-		Curso: Técnico de Informática EaD
 		Disciplina: Linguagens de Programação III
 		Tarefa: Semana 3 - Tarefa avaliativa - Organizando e estruturando o site com PHP
-		Aluno: Diego José de Oliveira Roque
 		Data: 19/04/2022
 	-->
     <head>
